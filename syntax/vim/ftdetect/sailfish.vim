@@ -3,4 +3,4 @@
 " URL:         http://github.com/Kogia-sima/sailfish
 " License:     MIT
 
-autocmd BufNewFile,BufRead *.stpl set filetype=sailfish
+autocmd BufNewFile,BufRead *.html,*.stpl set filetype=html
